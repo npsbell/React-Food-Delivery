@@ -3,7 +3,7 @@
 “This project was created to enhance my skills in React and implementing various web functionalities. I followed a [https://youtu.be/9jRTo7ILxQc?si=r6GVYsqWUipxg4ua](https://youtu.be/9jRTo7ILxQc?si=r6GVYsqWUipxg4ua) tutorial for guidance and have thoroughly reviewed and understood the code throughout the process.”
 
 ## 🍕Getting Started
--   clone the project repository  [https://github.com/npsbell/React-Food-Delivery.git](https://github.com/npsbell/React-Photosnap.git)
+-   clone the project repository  [https://github.com/npsbell/React-Food-Delivery.git](https://github.com/npsbell/React-Food-Delivery.git)
 -   cd FOOD-DELIVERY
 -   npm install
 -   npm run dev
